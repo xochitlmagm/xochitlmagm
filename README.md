@@ -14,3 +14,5 @@ Programming Languages:
 - CSS
 - C
 
+
+And for fun I'm relearning cybersecurity concepts.
