@@ -13,7 +13,7 @@ Programming Languages:
 - CSS
 - Javascript
 - C
-- Python (newbie)
+- Python
 
 
 And for fun I'm relearning cybersecurity concepts.
