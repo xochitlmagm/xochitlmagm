@@ -6,6 +6,7 @@
 - 🌱 Strengthening my Javascript skills, learning React, enforcing Java.
 
 #### Looking for a role as a Software Developer
+#### And currently creating a website for a new small business
 
 Programming Languages:
 - Java
