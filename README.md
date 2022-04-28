@@ -18,3 +18,7 @@ Programming Languages:
 
 
 And for fun I'm relearning cybersecurity concepts.
+
+
+
+### Currently: Creating a website for a local construction business.
